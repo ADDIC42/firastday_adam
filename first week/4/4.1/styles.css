@@ -1,0 +1,33 @@
+html {
+    font-family: Helvetica, sans-serif;
+  }
+  .ord {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    color: burgundy;
+    padding: 2px 1px;
+    border: 5px solid DarkRed;
+    text-align: center
+  }
+  .als {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid teal;
+    text-align: center;
+    line-height: 10em;  
+    margin-top: 50px;
+    color: blue;
+    padding: 30px;
+  }
+  p {
+    box-sizing: border-box;
+    padding: 30px;
+    margin-top: 70px;
+    border: 6px solid hotpink;
+    width: 100%;
+    height: 100px
+  }
